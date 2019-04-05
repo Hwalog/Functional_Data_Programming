@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/eric/Project_Func_Prog/producer/src/main/scala/Main.scala:28:11: ')' expected but '.' found.[0m
+[0m[[0m[31merror[0m] [0m[0m		producer.close()[0m
+[0m[[0m[31merror[0m] [0m[0m		        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eric/Project_Func_Prog/producer/src/main/scala/Main.scala:29:2: ';' expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m	)[0m
+[0m[[0m[31merror[0m] [0m[0m	^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

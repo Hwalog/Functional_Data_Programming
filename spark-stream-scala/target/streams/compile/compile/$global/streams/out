@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/home/eric/Project_Func_Prog/spark-stream-scala/src/main/scala/Main.scala:11:8: object SQLContext is not a member of package org.apache.spark.sql[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.{SQLContext, SaveMode}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eric/Project_Func_Prog/spark-stream-scala/src/main/scala/Main.scala:19:44: type SQLContext is not a member of package org.apache.spark.sql[0m
+[0m[[0m[31merror[0m] [0m[0m  val sqlContext= new org.apache.spark.sql.SQLContext(sc)[0m
+[0m[[0m[31merror[0m] [0m[0m                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eric/Project_Func_Prog/spark-stream-scala/src/main/scala/Main.scala:63:11: value toDF is not a member of org.apache.spark.rdd.RDD[(String, String)][0m
+[0m[[0m[31merror[0m] [0m[0m      rdd.toDF.write.format("parquet").mode(SaveMode.Append).save("/home/eric/Project_Func_Prog/Storage")[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eric/Project_Func_Prog/spark-stream-scala/src/main/scala/Main.scala:63:45: not found: value SaveMode[0m
+[0m[[0m[31merror[0m] [0m[0m      rdd.toDF.write.format("parquet").mode(SaveMode.Append).save("/home/eric/Project_Func_Prog/Storage")[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

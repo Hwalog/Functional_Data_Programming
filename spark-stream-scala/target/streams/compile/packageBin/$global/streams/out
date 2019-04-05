@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/hwalog/Documents/FunctionalDataProgramming/From_Eric/Last/Project_Func_Prog/spark-stream-scala/target/scala-2.11/kafka-app_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaProducerExample$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hwalog/Documents/FunctionalDataProgramming/From_Eric/Last/Project_Func_Prog/spark-stream-scala/target/scala-2.11/classes/ScalaProducerExample$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaProducerExample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hwalog/Documents/FunctionalDataProgramming/From_Eric/Last/Project_Func_Prog/spark-stream-scala/target/scala-2.11/classes/ScalaProducerExample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaProducerExample$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hwalog/Documents/FunctionalDataProgramming/From_Eric/Last/Project_Func_Prog/spark-stream-scala/target/scala-2.11/classes/ScalaProducerExample$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaProducerExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hwalog/Documents/FunctionalDataProgramming/From_Eric/Last/Project_Func_Prog/spark-stream-scala/target/scala-2.11/classes/ScalaProducerExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaProducerExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hwalog/Documents/FunctionalDataProgramming/From_Eric/Last/Project_Func_Prog/spark-stream-scala/target/scala-2.11/classes/ScalaProducerExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaProducerExample$$anonfun$1$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hwalog/Documents/FunctionalDataProgramming/From_Eric/Last/Project_Func_Prog/spark-stream-scala/target/scala-2.11/classes/ScalaProducerExample$$anonfun$1$$typecreator2$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
