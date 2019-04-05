@@ -12,3 +12,6 @@ Folders:
 Additionnaly, you need to change the path in 2 files:
  - in "Main.scala" of "spark-stream-scala", ~ line 52
  - in "Main.scala" of "producer", ~ line 23
+
+Hash of the last commit:
+commit 0d635bc4a9a213a8f70b2f86bd57a7f1aeb9b1dc (HEAD -> master, origin/master)
